@@ -1,4 +1,4 @@
-module github.com/marcusolsson/tui-go
+module github.com/chrishanli/tui-go
 
 require (
 	github.com/gdamore/encoding v0.0.0-20151215212835-b23993cbb635 // indirect

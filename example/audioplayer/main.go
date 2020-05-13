@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/marcusolsson/tui-go"
+	"github.com/chrishanli/tui-go"
 )
 
 type song struct {

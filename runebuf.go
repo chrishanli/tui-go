@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/marcusolsson/tui-go/wordwrap"
+	"github.com/chrishanli/tui-go/wordwrap"
 	runewidth "github.com/mattn/go-runewidth"
 )
 

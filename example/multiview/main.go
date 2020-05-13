@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/marcusolsson/tui-go"
+	"github.com/chrishanli/tui-go"
 )
 
 func main() {

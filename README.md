@@ -1,8 +1,8 @@
 # tui: Terminal UI for Go
 
-[![Build Status](https://travis-ci.org/marcusolsson/tui-go.svg?branch=master)](https://travis-ci.org/marcusolsson/tui-go)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/marcusolsson/tui-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/marcusolsson/tui-go)](https://goreportcard.com/report/github.com/marcusolsson/tui-go)
+[![Build Status](https://travis-ci.org/chrishanli/tui-go.svg?branch=master)](https://travis-ci.org/chrishanli/tui-go)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/chrishanli/tui-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/chrishanli/tui-go)](https://goreportcard.com/report/github.com/chrishanli/tui-go)
 [![License MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](LICENSE)
 
 A UI library for terminal applications.
@@ -22,7 +22,7 @@ Thanks all of you who have contributed and supported tui-go!
 ## Installation
 
 ```
-go get github.com/marcusolsson/tui-go
+go get github.com/chrishanli/tui-go
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ go get github.com/marcusolsson/tui-go
 ```go
 package main
 
-import "github.com/marcusolsson/tui-go"
+import "github.com/chrishanli/tui-go"
 
 func main() {
 	box := tui.NewVBox(
@@ -53,11 +53,11 @@ func main() {
 
 If you want to know what it is like to build terminal applications with tui-go, check out some of the [examples](example).
 
-Documentation is available at [godoc.org](https://godoc.org/github.com/marcusolsson/tui-go).
+Documentation is available at [godoc.org](https://godoc.org/github.com/chrishanli/tui-go).
 
-Make sure you check out some of the [projects using tui-go](https://godoc.org/github.com/marcusolsson/tui-go?importers).
+Make sure you check out some of the [projects using tui-go](https://godoc.org/github.com/chrishanli/tui-go?importers).
 
-Once you've gotten started developing your first application with tui-go, you might be interested in learning about common [patterns](https://github.com/marcusolsson/tui-go/wiki/Patterns) or how you can [debug](https://github.com/marcusolsson/tui-go/wiki/Debugging) your applications.
+Once you've gotten started developing your first application with tui-go, you might be interested in learning about common [patterns](https://github.com/chrishanli/tui-go/wiki/Patterns) or how you can [debug](https://github.com/chrishanli/tui-go/wiki/Debugging) your applications.
 
 ## Related projects
 
